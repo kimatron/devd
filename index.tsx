@@ -215,7 +215,7 @@ const App = () => {
       {/* About Kim Section */}
       <section className="section about-kim-section" id="about-kim">
         <div className="container about-kim-container">
-          <img src="/kimfaceli.jpeg" alt="Kim, software developer" className="profile-pic" />
+          <img src="/devd/images/kimfaceli.jpeg" alt="Kim, software developer" className="profile-pic" />
           <div className="about-kim-text">
             <h2 className="section-title">Meet Kim</h2>
             <p className="section-subtitle">
