@@ -223,6 +223,16 @@ b, strong {
   flex-wrap: wrap;
 }
 
+.hero-title-line {
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .hero-title-line {
+    white-space: normal;
+  }
+}
+
 /* 6. Trust Bar */
 .trust-bar {
   background-color: var(--bg-light);
