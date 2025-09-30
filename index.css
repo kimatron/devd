@@ -325,10 +325,10 @@ b, strong {
   height: 400px;
   border-radius: var(--radius);
   background-color: var(--bg-light);
-  background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3');
+  /* background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3'); */
   background-size: cover;
   background-position: center;
-  border: 1px solid var(--border-color);
+  /* border: 1px solid var(--border-color); */
 }
 
 /* 9. Services Section */

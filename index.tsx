@@ -262,7 +262,7 @@ const App = () => {
               </div>
             </div>
           </div>
-          <div className="about-image" />
+          <div><img src="/devd/images/design2.png" alt="Kim, software developer" className="about-image" /></div>
         </div>
       </section>
       
